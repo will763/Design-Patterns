@@ -22,4 +22,13 @@ public class Database {
             e.printStackTrace();
         }
     }
+
+    public static Connection getInstance() {
+        if (instance == null){
+            new Database();
+            return instance;
+        }
+
+        return instance;
+    }
 }
