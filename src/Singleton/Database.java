@@ -14,7 +14,7 @@ public class Database {
             Class.forName(driverName);
 
             instance= DriverManager.getConnection(
-                     "jdbc:mysql://localhost:3306/user","root","123456");
+                     "jdbc:mysql://localhost:3306/user","will","12345");
 
             System.out.println("Status ---> connection created");
 
