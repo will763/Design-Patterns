@@ -15,4 +15,6 @@ public abstract class Shape {
             this.color = target.color;
         }
     }
+
+    public abstract Shape clone();
 }
