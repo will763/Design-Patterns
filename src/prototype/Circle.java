@@ -15,6 +15,6 @@ public class Circle extends Shape{
 
     @Override
     public Shape clone() {
-        return null;
+        return new Circle(this);
     }
 }
