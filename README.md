@@ -7,10 +7,10 @@ Design Patterns are optimized, reusable solutions to programming problems that p
 #### Creational:
 - Abstract Factory
 - Builder
-- Factory Method
+- Factory Method :heavy_check_mark:
 - Object Pool
-- Prototype
-- Singleton
+- Prototype :heavy_check_mark:
+- Singleton :heavy_check_mark:
 
 #### Structural:
 - Adapter
