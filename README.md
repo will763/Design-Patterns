@@ -5,7 +5,7 @@ Design Patterns are optimized, reusable solutions to programming problems that p
 ### There are three types of Design Patterns:
 
 #### Creational:
-- Abstract Factory
+- Abstract Factory :heavy_check_mark:
 - Builder
 - Factory Method :heavy_check_mark:
 - Object Pool
