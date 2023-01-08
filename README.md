@@ -8,7 +8,7 @@ Design Patterns are optimized, reusable solutions to programming problems that p
 - Abstract Factory :heavy_check_mark:
 - Builder
 - Factory Method :heavy_check_mark:
-- Object Pool
+- Object Pool :heavy_check_mark:
 - Prototype :heavy_check_mark:
 - Singleton :heavy_check_mark:
 
