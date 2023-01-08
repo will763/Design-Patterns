@@ -2,12 +2,12 @@ package objectPool;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class Oliphaun {
+public class Oliphaunt {
     private static final AtomicInteger counter = new AtomicInteger(0);
 
-    private int id;
+    private final int id;
 
-    public void Oliphaunt() {
+    public Oliphaunt() {
         id = counter.incrementAndGet();
         try {
             Thread.sleep(1000);
