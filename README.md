@@ -13,7 +13,7 @@ Design Patterns are optimized, reusable solutions to programming problems that p
 - Singleton :heavy_check_mark:
 
 #### Structural:
-- Adapter
+- Adapter :heavy_check_mark:
 - Bridge
 - Composite
 - Decorator
