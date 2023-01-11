@@ -14,7 +14,7 @@ Design Patterns are optimized, reusable solutions to programming problems that p
 
 #### Structural:
 - Adapter :heavy_check_mark:
-- Bridge
+- Bridge :heavy_check_mark:
 - Composite
 - Decorator
 - Facade
