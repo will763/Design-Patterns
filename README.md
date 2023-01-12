@@ -17,7 +17,7 @@ Design Patterns are optimized, reusable solutions to programming problems that p
 - Bridge :heavy_check_mark:
 - Composite
 - Decorator
-- Facade
+- Facade :heavy_check_mark:
 - Flyweight
 - Private Class Data
 - Proxy
